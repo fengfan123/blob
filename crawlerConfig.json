@@ -1,6 +1,6 @@
 {
     "index_name": "xfeng-blob", 
-    "start_urls": ["https://www.jyzngc.cn/xfeng-blob"], 
+    "start_urls": ["https://fengfan123.github.io/xfeng-blob/"], 
     "rateLimit": 8,
     "maxDepth": 10,
     "selectors": {
